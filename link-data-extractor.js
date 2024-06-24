@@ -8,7 +8,9 @@ const userAgent =
 // Define the main function to start the scraping process
 async function start() {
   // Launch a new browser instance
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    headless: false,
+  });
 
   // Create a new page in the browser
   const page = await browser.newPage();
