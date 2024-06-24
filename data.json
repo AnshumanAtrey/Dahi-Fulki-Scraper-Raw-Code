@@ -1,0 +1,3656 @@
+[
+  {
+    "name": "Coco Osteria",
+    "address": "32, Rajendra Nagar, Kaulagarh Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917060003325"
+    ]
+  },
+  {
+    "name": "Kalsang Cafe",
+    "address": "88/A Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919897394662"
+    ]
+  },
+  {
+    "name": "Ladder To Lounge",
+    "address": "Kulhan Mansingh, Sahastradhara Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918630880567"
+    ]
+  },
+  {
+    "name": "Cuisine De Saffron Leaf",
+    "address": "Shop 14, Pacific Hill, Mussoorie Diversion, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+911354069403",
+      "+919548672930"
+    ]
+  },
+  {
+    "name": "Kumar Sweet Shop",
+    "address": "R1, Rajpur Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352655757"
+    ]
+  },
+  {
+    "name": "Asia Seven – Sizzling Chinese",
+    "address": "479, Opposite Kanta, Rajpur Raod, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918393938882"
+    ]
+  },
+  {
+    "name": "Bake Masters",
+    "address": "19, Kwality Complex, Rajpur Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352717771",
+      "+919068664222"
+    ]
+  },
+  {
+    "name": "Wild West Restaurant & Cafe",
+    "address": "8, Old Mussoorie Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919899549818",
+      "+918273868669"
+    ]
+  },
+  {
+    "name": "Mamagoto",
+    "address": "Plot 1, Svarna Mana Complex, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+916396736988",
+      "+918865817310"
+    ]
+  },
+  {
+    "name": "Musee Art Cafe",
+    "address": "Sahastradhara Bypass, Nagal Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919520378936"
+    ]
+  },
+  {
+    "name": "Foxtrot",
+    "address": "46, IDA, East Canal Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+911352717020",
+      "+917060200688"
+    ]
+  },
+  {
+    "name": "Kylin Experience",
+    "address": "108/84, Rabindra Nath Tagore Marg, Near Centrio 5th Floor Mall, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919389134237"
+    ]
+  },
+  {
+    "name": "Orchard",
+    "address": "3-D, Dak Patti, Near Mdda Park, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919917733111"
+    ]
+  },
+  {
+    "name": "Zaffran",
+    "address": "58 & 59/40, KA 49 GA, Village Sudhowala Chakrata Road, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+911357165000",
+      "+917251999721",
+      "+917251999715"
+    ]
+  },
+  {
+    "name": "Jalapenos",
+    "address": "GF 19, Pacific Hills, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919717308074"
+    ]
+  },
+  {
+    "name": "Tandon's Fast Food",
+    "address": "Dakpatti, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919897469074"
+    ]
+  },
+  {
+    "name": "Super Donuts",
+    "address": "Shop 5, Lower Ground Floor, World Trade Tower, Chironwaii, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+911353590596"
+    ]
+  },
+  {
+    "name": "Thirsty Anchor Parlor - TAP",
+    "address": "3rd Floor, 167/3, Maple Tower, Above Axis Bank, Kishanpur, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917337848971"
+    ]
+  },
+  {
+    "name": "Raasta",
+    "address": "170, Rajpur Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919068249996"
+    ]
+  },
+  {
+    "name": "Basque",
+    "address": "Mussoorie Road, Near Dehradun Zoo, Salan Gaon, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+918356056109"
+    ]
+  },
+  {
+    "name": "South Indian Vibes Restaurant",
+    "address": "3, 1st & 2nd Floor, Astley Hall, Rajpur Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+917078234567",
+      "+917078345678"
+    ]
+  },
+  {
+    "name": "Gola Sizzlers",
+    "address": "2nd Floor, Pacific Mall, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917017351792"
+    ]
+  },
+  {
+    "name": "Punjab Grill",
+    "address": "479, Opposite Kanta, Rajpur Raod, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918272888882"
+    ]
+  },
+  {
+    "name": "Barbeque Nation",
+    "address": "Rajpur Road, Chaudhary Plaza, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919311342300",
+      "+918755909501"
+    ]
+  },
+  {
+    "name": "The Bong Twist",
+    "address": "Victory Point, Tower Level-3, Ballupur Chowk, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+919899201907"
+    ]
+  },
+  {
+    "name": "The Buffet Snack Shop",
+    "address": "17/1, Rajpur Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352658589"
+    ]
+  },
+  {
+    "name": "Zion",
+    "address": "78, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917900722722"
+    ]
+  },
+  {
+    "name": "70 Percent Restro Cafe",
+    "address": "39 Ground Floor, Mahadev Tower, Maharani Bagh, GMS Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917302272772",
+      "+911353567936"
+    ]
+  },
+  {
+    "name": "Bardo Restro & Cafe",
+    "address": "19-C, Subhash Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+917060309475"
+    ]
+  },
+  {
+    "name": "The Phoenix Club",
+    "address": "Khasara 385, Sai Towers, Suddhowala, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+916395344258"
+    ]
+  },
+  {
+    "name": "The Mudcup Cafe At Alaya",
+    "address": "94, Rajpur Road, Kairwaan Gaon, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918979773918"
+    ]
+  },
+  {
+    "name": "Rumours",
+    "address": "155/1, 5th Floor, Euphoria Shopping Complex, Kishanpur, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919999924964"
+    ]
+  },
+  {
+    "name": "Black Pepper Restaurant",
+    "address": "3, 1st & 2nd Floor, Ashtley Hall, Rajpur Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919997000909",
+      "+919410930186",
+      "+919411325112"
+    ]
+  },
+  {
+    "name": "Chili's Grill & Bar",
+    "address": "Shop 04, Ground Floor, Pacific Mall, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919667866319"
+    ]
+  },
+  {
+    "name": "Cure The Culinary Bar",
+    "address": "412/28/114, Canal Road, Near Limit Fitness Gym, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918171236579"
+    ]
+  },
+  {
+    "name": "Smoke House Deli",
+    "address": "Unit 31 & 32, Ground Floor, Unison Mall, 108/84 Rabindra Nath Tagore Marg, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+917454917265",
+      "+911356170855"
+    ]
+  },
+  {
+    "name": "Patio Terrace",
+    "address": "59/D, Rajpur Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+917500882255"
+    ]
+  },
+  {
+    "name": "Sly Granny",
+    "address": "EC Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919058140400"
+    ]
+  },
+  {
+    "name": "Auric- Restaurant & Rooftop Cafe",
+    "address": "179/2, 3rd Floor and Terrace, Mussoore Diversion Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917456842142",
+      "+919897710116"
+    ]
+  },
+  {
+    "name": "Eddie's Patisserie",
+    "address": "102, Yamuna Colony, Near Punjab National Bank, Khurbura, Dehradun",
+    "phoneNumbers": [
+      "+911352531002",
+      "+917895202808"
+    ]
+  },
+  {
+    "name": "Friends N Blends",
+    "address": "479, Rajpur Road, Opposite Kanta, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918393936633"
+    ]
+  },
+  {
+    "name": "Walk In Woods",
+    "address": "K-32, Mandakni Vihar, Sahastradhara Road, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+917055361321"
+    ]
+  },
+  {
+    "name": "The Swings Cafe A Family Restaurant And Bar",
+    "address": "163 A, First Floor, Brothers Tower, Kishanpur, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917347700700"
+    ]
+  },
+  {
+    "name": "Zaffran Curries & Biryani",
+    "address": "32, Rajendra Nagar, Kaulagarh Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917060003325"
+    ]
+  },
+  {
+    "name": "Anandam",
+    "address": "Chakrata Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+919627594845"
+    ]
+  },
+  {
+    "name": "Southern Cafe",
+    "address": "Nandini Vihar, Sahastradhara Road, Near Times Square Mall, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+919219999899"
+    ]
+  },
+  {
+    "name": "Bottle Kitchen & Co.",
+    "address": "183/54, The Pinnacle Plaza, Pacific Mall, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+916398363600"
+    ]
+  },
+  {
+    "name": "Badmaash Kebabi",
+    "address": "142/52/84, Chakrata Road, Khurbura, Dehradun",
+    "phoneNumbers": [
+      "+919760080111"
+    ]
+  },
+  {
+    "name": "Qb Lounge Bar",
+    "address": "152, 3d Floor, Axiom Mall, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+916397450051"
+    ]
+  },
+  {
+    "name": "The Valley Cafe",
+    "address": "Shop 2, Char Khamba, Post Office Road, Near Graphic Era, Clement Town, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919811060229"
+    ]
+  },
+  {
+    "name": "Grand Bakers & Confectioners",
+    "address": "15, Guru Kripa Complex, New Road, Opposite MKP Inter College, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919720022233",
+      "+911352654720"
+    ]
+  },
+  {
+    "name": "Dhaba - Estd 1986 Delhi",
+    "address": "5th Floor, Centrio Mall, Bhel Chowk, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+917302220162",
+      "+917302220164"
+    ]
+  },
+  {
+    "name": "Bungalow",
+    "address": "1, Crossroads Mall, Old Survey Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918126468833"
+    ]
+  },
+  {
+    "name": "Ama Cafe",
+    "address": "143, Kishanpur, Rajpur Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919520875543"
+    ]
+  },
+  {
+    "name": "Farzi Cafe",
+    "address": "222, Dhakpatti, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917617771124"
+    ]
+  },
+  {
+    "name": "Town Table Restaurant",
+    "address": "101, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+911352749999",
+      "+917455825500"
+    ]
+  },
+  {
+    "name": "The Bend",
+    "address": "92/1, Mauja Bagral Gaon, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917037645656"
+    ]
+  },
+  {
+    "name": "Melt - Hotel Saffron Leaf",
+    "address": "Hotel Saffron Leaf, GMS Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+911352521400",
+      "+911352521401",
+      "+911352521402"
+    ]
+  },
+  {
+    "name": "Kalsang",
+    "address": "88/A, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919639430772",
+      "+919557270285"
+    ]
+  },
+  {
+    "name": "Tipsy Alley",
+    "address": "Clarion Hotel, Khasra 345, Nanda Ki Chowki, Chakrata Road, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919528022682"
+    ]
+  },
+  {
+    "name": "Ellora's Melting Moments",
+    "address": "29, Rajpur Road, Dobhalwala, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352714950"
+    ]
+  },
+  {
+    "name": "Taashee",
+    "address": "KH 191/168, 4th Floor, CSM Westend Complex, Chakrata Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917300687772",
+      "+917300697773"
+    ]
+  },
+  {
+    "name": "Kaizen Cafe",
+    "address": "75-A, Dilaram Chowk, Opposite SBI Bank, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919045925735"
+    ]
+  },
+  {
+    "name": "My Bar Headquarters",
+    "address": "174/281, Rajpur Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919045599416"
+    ]
+  },
+  {
+    "name": "Desi Chulha",
+    "address": "17 B, Kulhan, Rajpur Road, Opposite Gandhi Park Main Gate, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919638965555",
+      "+917409427782"
+    ]
+  },
+  {
+    "name": "Bonnie's Punjabi Tadkaa",
+    "address": "57, Gandhi Road, Near Prince Chowk, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919897914282"
+    ]
+  },
+  {
+    "name": "Five Star Premium",
+    "address": "Pargana Central Doon Mauja, Opposite Scholar Home School, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919897780164"
+    ]
+  },
+  {
+    "name": "Cafe Commune",
+    "address": "Sinaula, Main Mussoorie Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919548977970"
+    ]
+  },
+  {
+    "name": "L'Opéra Salon de Thé",
+    "address": "IDA, 46 East Canal Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+917465030005"
+    ]
+  },
+  {
+    "name": "Burger King",
+    "address": "5/5, 4/4 & 3/3, Ground Floor, Chakrata Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917208926201"
+    ]
+  },
+  {
+    "name": "Pizza Love",
+    "address": "Shop 3, Wing 6, Near Kidzee Play School, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+917217008008",
+      "+917217009009"
+    ]
+  },
+  {
+    "name": "House Of Burgers",
+    "address": "Shop 253KA, Suddhowala, Dehradun",
+    "phoneNumbers": [
+      "+917505893105"
+    ]
+  },
+  {
+    "name": "Bandstand BBQ",
+    "address": "41, Near Sai Temple, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919810404915"
+    ]
+  },
+  {
+    "name": "Paradise",
+    "address": "19, Subhash Road, Near Uttarakhand Police Headquater, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+911352712356",
+      "+911352712377",
+      "+911352712355"
+    ]
+  },
+  {
+    "name": "Chetan Puri Wala",
+    "address": "Shop 22, Hanuman Chowk, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+919412346563"
+    ]
+  },
+  {
+    "name": "Bistro David",
+    "address": "Near Doon Global School, Jhajra, Chakrata Road, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918395881290"
+    ]
+  },
+  {
+    "name": "Mud Oven Pizza",
+    "address": "Suri Chowk, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919411694942"
+    ]
+  },
+  {
+    "name": "Grill Bro",
+    "address": "402/342, Karanpur Bazar, 2nd Block, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919759274040"
+    ]
+  },
+  {
+    "name": "Santorini Street Cafe",
+    "address": "140 B, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+911352733000"
+    ]
+  },
+  {
+    "name": "Aristella",
+    "address": "9/5, Old Mussoorie Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917452892788"
+    ]
+  },
+  {
+    "name": "Cafe Delhi Heights",
+    "address": "Shop SH/GF/03, Ground Floor, Pacific Mall, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918755903033"
+    ]
+  },
+  {
+    "name": "Pano - Fairfield by Marriott",
+    "address": "Fairfield By Marriott, Mauza, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+911356620222"
+    ]
+  },
+  {
+    "name": "Cafe De Piccolo",
+    "address": "180, Rajpur Road, Near Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918393992323"
+    ]
+  },
+  {
+    "name": "Biryani By Kilo",
+    "address": "1st Floor, R B Tower, Mahender Vihar, Near UGB Bank, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "18002122212"
+    ]
+  },
+  {
+    "name": "XOXO - Cafe, Bakery, Patisserie",
+    "address": "GF-10, Pacific Hills, Mussoorie Diversion, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918433255901"
+    ]
+  },
+  {
+    "name": "Subway",
+    "address": "361/1 Chakrata Road, Near IMA Blood Bank, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917505077979"
+    ]
+  },
+  {
+    "name": "KFC",
+    "address": "1281 & 1291, Opposite DR Manish Jain Hospital, Chakrata Road, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918042754444"
+    ]
+  },
+  {
+    "name": "Narcoz - The Food Cartel",
+    "address": "55, Main Bazar Chowk, Old Rajpur Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918879484848"
+    ]
+  },
+  {
+    "name": "The Eleganza",
+    "address": "NH 72, Jhajra, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+917818078062"
+    ]
+  },
+  {
+    "name": "Downtown Multicusine Restaurant",
+    "address": "Natraj Tower, Danda Lakhond, Sahastradhara Road, Near SBI Bank, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+919690767757"
+    ]
+  },
+  {
+    "name": "Desi Videshi Cafe",
+    "address": "Clement Town, Krishna Market Road, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919258211028",
+      "+911353137399"
+    ]
+  },
+  {
+    "name": "Woodpecker Restro Cafe & Party Lawn",
+    "address": "Near Sahastradhara Road, Adjacent To Easy Day, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+916397200455",
+      "+919760404149",
+      "+919219503931"
+    ]
+  },
+  {
+    "name": "Babagz",
+    "address": "109 Dronpuri Colony, Lane No 1, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+917302576312"
+    ]
+  },
+  {
+    "name": "Best Buddy's Restro Cafe",
+    "address": "172 B, Rajpur Road, Near Mussorrie Diversion, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+917452021266",
+      "+919892311092"
+    ]
+  },
+  {
+    "name": "Domino's Pizza",
+    "address": "Upper Ground Floor, Pacific Mall, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917253887556"
+    ]
+  },
+  {
+    "name": "Talab Cafe",
+    "address": "Kharsa 377, Chakrata Road, Near Ashirwad Petrol Pump, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+919927024988",
+      "+919997025958"
+    ]
+  },
+  {
+    "name": "Hunger Bell",
+    "address": "18, Ghosi Gali, Near Clock Tower, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+918755116565"
+    ]
+  },
+  {
+    "name": "Aura Restaurant",
+    "address": "1060, GMS Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+917500649777"
+    ]
+  },
+  {
+    "name": "White Horse - Ramada Dehradun",
+    "address": "Ramada Dehradun, Mahender Vihar, Chakrata Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917457003258",
+      "+917457003259"
+    ]
+  },
+  {
+    "name": "Reggae Chilli",
+    "address": "Dhanda, Nooriwala, Sahastra Dhara Road, Opposite Vidya Book & Stationary, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+917983710094"
+    ]
+  },
+  {
+    "name": "The Retro Rolls",
+    "address": "70, Ring Road, Danda, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919119079907"
+    ]
+  },
+  {
+    "name": "The Shawarma King",
+    "address": "BS-32, Nehru Colony, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+916398245117"
+    ]
+  },
+  {
+    "name": "Nazim's Kathi Roll",
+    "address": "142, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919810553672"
+    ]
+  },
+  {
+    "name": "Taste Hot Pizza",
+    "address": "Kheri Gaon, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918859234286"
+    ]
+  },
+  {
+    "name": "Biryani Mansion",
+    "address": "39, Ground Floor, Maharani Bagh, GMS Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+911353567936",
+      "+917302272772"
+    ]
+  },
+  {
+    "name": "Bollywood Cafe & Restaurant",
+    "address": "Rajender Nagar, Kaulagarh Road, Garhi Cantt, Dehradun",
+    "phoneNumbers": [
+      "+919971060285"
+    ]
+  },
+  {
+    "name": "Opal Lounge",
+    "address": "59/4, ITC Tower, Rajpur Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+919999627282",
+      "+918178947596",
+      "+911352743937"
+    ]
+  },
+  {
+    "name": "Nostalgia",
+    "address": "88/1, Rajendranagar, Kaulaghar Road, Krishna Nagar, Dehradun",
+    "phoneNumbers": [
+      "+917310988848"
+    ]
+  },
+  {
+    "name": "Orion-The Sky lounge, Comfort Inn",
+    "address": "Comfort Inn, 9-Sahastradhara Road, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+918864998999"
+    ]
+  },
+  {
+    "name": "Mannu Fast Food",
+    "address": "1334, Kailash Vihar, Ladpur, Raipur, Dehradun",
+    "phoneNumbers": [
+      "+919219191212",
+      "+919219001200"
+    ]
+  },
+  {
+    "name": "Karma Restaurant Lounge & Bar",
+    "address": "69, Ravindrapuri, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+911352740200"
+    ]
+  },
+  {
+    "name": "MOB- The Revolution Lounge",
+    "address": "99, World Trade Tower, Rajpur Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+911352971935",
+      "+919761800002"
+    ]
+  },
+  {
+    "name": "Bite Of Kolkatta",
+    "address": "103/7, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+917017768074",
+      "+916395242051"
+    ]
+  },
+  {
+    "name": "Crunch Of Kolkatta",
+    "address": "Shop 8, Lower Ground, Chopra Complex, 151, Near Jakhan Filling Station, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917419197434"
+    ]
+  },
+  {
+    "name": "Rocky Roads Pizzeria & Café",
+    "address": "Shop 18, Pacific Hills, Mussoorie Diversion, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+911352738088"
+    ]
+  },
+  {
+    "name": "BFC Kitchen",
+    "address": "Utsav Vihar, Near Anurag Chowk Niranjanpur, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+917900789789",
+      "+919639789789"
+    ]
+  },
+  {
+    "name": "Renu Aunty's Cafe",
+    "address": "Rishi Nagar, Sahastradhara Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918087367943"
+    ]
+  },
+  {
+    "name": "Kumar Foods Restaurant",
+    "address": "15B, Rajpur Road, Opposite MDDA Parking, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352657060",
+      "+911352657172",
+      "+918630691774"
+    ]
+  },
+  {
+    "name": "Raj Kumar Sweet Shop",
+    "address": "Clement Town, Turner Road, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+911352640325",
+      "+917300912112"
+    ]
+  },
+  {
+    "name": "Crave More",
+    "address": "215/C, Near Destiny Fitness Zone, Jakhan Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917017370383"
+    ]
+  },
+  {
+    "name": "Pizza Hub",
+    "address": "1, Chakarata Road, Suddhowala, Dehradun",
+    "phoneNumbers": [
+      "+919690442255",
+      "+917900442255"
+    ]
+  },
+  {
+    "name": "Romeo Lane",
+    "address": "Rajpur road Jakhan, Above Tanishq Jewelery showroom, Dehradun-248001, Dehradun, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917249929333",
+      "+917249929444",
+      "+917249929555"
+    ]
+  },
+  {
+    "name": "Tapri - The Teafe",
+    "address": "Shop 3, 5th Floor, MJ Tower, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919860695821"
+    ]
+  },
+  {
+    "name": "Otium Cookhouse",
+    "address": "175/6, Rajpur Road, Near Kishanpur Chowk, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+918178728770"
+    ]
+  },
+  {
+    "name": "Tonic",
+    "address": "3rd Floor, 42 Crown Tower, Chakrata Road, Near Ramada Hotel, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917900333124",
+      "+917900333123"
+    ]
+  },
+  {
+    "name": "House of TGIP",
+    "address": "138/345, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918755553261"
+    ]
+  },
+  {
+    "name": "WOW! China",
+    "address": "FC 12, Plot 108/84, 4th Floor, Centrio Mall, Rabindra Nath Tagore Marg, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919147150943",
+      "+919836198361"
+    ]
+  },
+  {
+    "name": "Delhi Dehradun Express",
+    "address": "10, First Floor, Block A, First Pacific Hills, Mussoorie Diversion Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919999928606"
+    ]
+  },
+  {
+    "name": "Flavours Of Bihar",
+    "address": "Suddhowala, Sahas Pur, Vikasnagar, Near Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919837061284"
+    ]
+  },
+  {
+    "name": "Rasam - Taste Of South",
+    "address": "101, Rajpur Road, Near Park Avenue Showroom, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919548629177"
+    ]
+  },
+  {
+    "name": "Tirupati Restaurant",
+    "address": "27 B, Rajpur Road, Opposite St. Joseph's Academy, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352711011",
+      "+919358110244"
+    ]
+  },
+  {
+    "name": "Tengo Hambre",
+    "address": "Shop 3, Pacific Estate, Anurag Chowk, Vasant Vihar, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+918630087909"
+    ]
+  },
+  {
+    "name": "Yellow Hills",
+    "address": "Khasra 1422, NH 7, Ajabpur Khurd, Haridwar Bypass Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919058788881"
+    ]
+  },
+  {
+    "name": "Sheesha Lounge & Restaurant",
+    "address": "ST. 2A, Rajendra Nagar, Kaulagarh Road, Near, Krishna Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919897911243",
+      "+918979408844",
+      "+919897770682"
+    ]
+  },
+  {
+    "name": "McDonald's",
+    "address": "3, Astley Hall, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919719401785"
+    ]
+  },
+  {
+    "name": "Lhasa Tibet Kitchen",
+    "address": "Rajpur Road, Near BSNL Office, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+911352733666",
+      "+918006666477"
+    ]
+  },
+  {
+    "name": "Wasabae",
+    "address": "32, Ground Floor, LP Residency, Kaulagarh Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917060003325"
+    ]
+  },
+  {
+    "name": "Aangan Restaurant & Bar",
+    "address": "7 A, Astley Hall, Rajpur Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919105555213",
+      "+911352659633"
+    ]
+  },
+  {
+    "name": "New Dana Pani Restaurant Since 2007",
+    "address": "Saharanpur Road, Near ISBT Majra, Dehradun",
+    "phoneNumbers": [
+      "+919568659999",
+      "+919997333993"
+    ]
+  },
+  {
+    "name": "Infamous Bistro & Bar",
+    "address": "163, Sai Tower, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919911727241"
+    ]
+  },
+  {
+    "name": "Berco's - If You Love Chinese",
+    "address": "99/445, Lower Ground Floor, Rajpur Road, World Trade Tower, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+917252999927"
+    ]
+  },
+  {
+    "name": "The Tavern Restaurant",
+    "address": "3rd Floor, Crossroads Mall, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+917579143736",
+      "+911352741010",
+      "+918433232703"
+    ]
+  },
+  {
+    "name": "Countdown Fast Food",
+    "address": "9/2, Subhash Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919997700788"
+    ]
+  },
+  {
+    "name": "Bhatia Dhaba",
+    "address": "Wing 2-1-5, Arcadia Grant, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919897869392"
+    ]
+  },
+  {
+    "name": "Shagun Restaurant",
+    "address": "Chanakyapuri, Rajeev Nagar, Tehri Nagar, Banjarawala, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+918126680123"
+    ]
+  },
+  {
+    "name": "Cafe Coco",
+    "address": "Nanda Ki Chowki, Chakrata Road, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+911353025000",
+      "+917251999721",
+      "+917251999715"
+    ]
+  },
+  {
+    "name": "Pizza Italia",
+    "address": "104, EC Road, Opposite SGRR School, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918954770009"
+    ]
+  },
+  {
+    "name": "Hotel Aketa",
+    "address": "113, 1-2, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+918171472367",
+      "+919568578777"
+    ]
+  },
+  {
+    "name": "Sethi's Food Corner",
+    "address": "71, Ansari Marg, Bindal Tiraha, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+918755023999"
+    ]
+  },
+  {
+    "name": "G7 Bar & Kitchen",
+    "address": "Shop 7, 3rd Floor, Guruji Plaza, Sarahanpur Road, Near Paras Wedding Point, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+919557577775",
+      "+919837063876",
+      "+918755921677"
+    ]
+  },
+  {
+    "name": "Romnik Pizza",
+    "address": "Shiva Tower I-23, Nehru Colony, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919105788788"
+    ]
+  },
+  {
+    "name": "Da Mexican Pizza",
+    "address": "Doon Medical College Road, Near Kali Mata Mandir Chowk, Dehrakhash, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+917982656540"
+    ]
+  },
+  {
+    "name": "Pahadi Rasoi",
+    "address": "Chakrata Road, Near Ashirwad Petrol Pump, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+919997852693"
+    ]
+  },
+  {
+    "name": "Pub Of India",
+    "address": "113, Hotel Sunrise, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918439999983"
+    ]
+  },
+  {
+    "name": "Keventers - Milkshakes & Desserts",
+    "address": "3rd Floor, Food Court, Pacific Mall, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918826309327"
+    ]
+  },
+  {
+    "name": "Daddy's Restaurant Since 1988",
+    "address": "151, Chopra Complex, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919897493712"
+    ]
+  },
+  {
+    "name": "Giani",
+    "address": "74 C, Main Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919758882666",
+      "+917017431382"
+    ]
+  },
+  {
+    "name": "Kaafal",
+    "address": "Sahastradhara Road, Near IT Park, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+911352608816",
+      "+917060965296"
+    ]
+  },
+  {
+    "name": "King's Harbor Restaurant",
+    "address": "1061, General Mahadev Singh Road, Shakti Enclave, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+919690141414"
+    ]
+  },
+  {
+    "name": "Garden Of Taste",
+    "address": "Plot 1, Dhobal Chowk, Near Puliya 6, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+917535055356",
+      "+919897273107"
+    ]
+  },
+  {
+    "name": "New Uska Punjabi Dhaba",
+    "address": "69, Prince Chowk, Dhamawala Mohalla, Gandhi Road, Near Railway Station, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+919152820785"
+    ]
+  },
+  {
+    "name": "Thee Heart",
+    "address": "1st Floor, Vikas Cinemall, Indira Nagar, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+919528384900"
+    ]
+  },
+  {
+    "name": "70 Percent Diet",
+    "address": "Ground Floor, 39 Maharani Bagh, GMS Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+919650458983"
+    ]
+  },
+  {
+    "name": "The Biryani King",
+    "address": "46 D, Patthri Bagh, Near SSGR College, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919058077033"
+    ]
+  },
+  {
+    "name": "Cafe Behind The Bars",
+    "address": "2, Matawala Bagh, Saharanpur Road, Laxman Chowk, Dehradun",
+    "phoneNumbers": [
+      "+919719139435"
+    ]
+  },
+  {
+    "name": "Uncle M Hungry",
+    "address": "2nd Floor, Jakhan Tower, Main Rajpur Road, Near Union Bank, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918279447279",
+      "+917417761761"
+    ]
+  },
+  {
+    "name": "Taste Of Sikkim",
+    "address": "2nd Floor, Property 293/274, Kaulagarh Road, Krishna Nagar, Dehradun",
+    "phoneNumbers": [
+      "+916397628394"
+    ]
+  },
+  {
+    "name": "A Place Called Edina",
+    "address": "IAS Officers Colony, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918979048500"
+    ]
+  },
+  {
+    "name": "Chef Table Cafe",
+    "address": "Near IOC Petrol Pump, New Raipur Road, Kidduwala, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+916398471128",
+      "+917983487731"
+    ]
+  },
+  {
+    "name": "Nawabi Kolkata",
+    "address": "Ground Floor, Pacific Hills, Mussoorie Diversion, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+918787864791"
+    ]
+  },
+  {
+    "name": "Polo Bar",
+    "address": "Hotel President, 6, Astley Hall, Rajpur Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+911352657082",
+      "+911352657386"
+    ]
+  },
+  {
+    "name": "New Jassi Restaurant",
+    "address": "JN Plaza, Near Chauhan Market, Haridwar Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919756249052",
+      "+917351873620",
+      "+919368703620"
+    ]
+  },
+  {
+    "name": "Wood Grill Cafe",
+    "address": "Aman Vihar, Sondhowali, Dhuran Khass, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918273804992"
+    ]
+  },
+  {
+    "name": "Monkey Fist Cafe",
+    "address": "61/59, Jakhan Canal Road, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+919720005972"
+    ]
+  },
+  {
+    "name": "WOW! Momo",
+    "address": "FCC/2F/06, Second Floor, Pacific Mall, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917044454953",
+      "+919836198361"
+    ]
+  },
+  {
+    "name": "Dehradun Social",
+    "address": "108/84, R-03, Fifth Floor, Centrio Mall, Rabindranath Tagore Marg, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919520897191"
+    ]
+  },
+  {
+    "name": "Ministry Of Doon Restro & Bar",
+    "address": "104/1, CJ Plaza, Ballupur Chowk, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917300707166"
+    ]
+  },
+  {
+    "name": "Pind Balluchi",
+    "address": "12, Ground Floor, Shanti Enclave, GMS Road, Opposite Mondrian High School, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+917249911610"
+    ]
+  },
+  {
+    "name": "Sankalp",
+    "address": "Shop S1, Second Floor, GMS Mall, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+919557135858"
+    ]
+  },
+  {
+    "name": "Pataka Bar N Indian Kitchen",
+    "address": "3rd Floor, Crossroads Mall, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+911354065556",
+      "+919760187187"
+    ]
+  },
+  {
+    "name": "The Belgian Waffle Co.",
+    "address": "180/7, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917302916599"
+    ]
+  },
+  {
+    "name": "Rajdhani Chicken Point",
+    "address": "21, Naya Nagar, Gandhi Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+917037752387"
+    ]
+  },
+  {
+    "name": "Olivo Bakers & Cafe",
+    "address": "Golden Fish Sainik Suvidha Parisar, CSD Complex, SP Road, Garhi Cantt, Dehradun",
+    "phoneNumbers": [
+      "+919760414424"
+    ]
+  },
+  {
+    "name": "Uss Da Dhaba",
+    "address": "Shop 3, Court Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919897921313",
+      "+919897291313"
+    ]
+  },
+  {
+    "name": "Beertales",
+    "address": "4th floor, Shop 445, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+917409555444",
+      "+917217575444"
+    ]
+  },
+  {
+    "name": "Amritsari Express",
+    "address": "3rd Floor, Pacific Mall, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919760286528"
+    ]
+  },
+  {
+    "name": "Prez Restaurant - Since 1976",
+    "address": "Hotel President, 6, Astley Hall, Rajpur Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+911352657082",
+      "+911352657386"
+    ]
+  },
+  {
+    "name": "Nany's Bakery",
+    "address": "2, Old Survey Road, Opposite Cross Road Mall, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+917088680680"
+    ]
+  },
+  {
+    "name": "Riverstone Cottages",
+    "address": "Guniyal Gaon, Near Max Hospital, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+917351525354",
+      "+918449200022"
+    ]
+  },
+  {
+    "name": "Terrazzo",
+    "address": "1072, 4th Floor, Ashirwad Tower, Sunder Vihar, Near Ballupur Flyover, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+919068557616",
+      "+919068557617",
+      "+919068557620"
+    ]
+  },
+  {
+    "name": "Bawarchi",
+    "address": "Saharanpur Road, Near ISBT, Majra, Dehradun",
+    "phoneNumbers": [
+      "+919917946980"
+    ]
+  },
+  {
+    "name": "Bhura Chicken Corner",
+    "address": "31, Araghar, Haridwar Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919837127148",
+      "+919897163623",
+      "+919719362928"
+    ]
+  },
+  {
+    "name": "Grille Restaurant",
+    "address": "4th Floor, Axiom Mall, 152 Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918449715899"
+    ]
+  },
+  {
+    "name": "Naveen Vegetarian",
+    "address": "23 Darshani Gate, Nagar Nigam, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+911352621017"
+    ]
+  },
+  {
+    "name": "Gulab Sweets",
+    "address": "Turner Road, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+917300701443"
+    ]
+  },
+  {
+    "name": "Cafe Radiohead",
+    "address": "Near Sakshi Electronics, Society Area, Clement Town, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+917060958311"
+    ]
+  },
+  {
+    "name": "Pinewood Cafe & Kitchen",
+    "address": "35, Chakrata Road, Opposite Prabhat Cinema, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+917503543654",
+      "+918909643364"
+    ]
+  },
+  {
+    "name": "Doon Tripple Nine",
+    "address": "21/26, Patel Nagar, Near Kohli Petrol Pump, Saharanpur, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+919997009849"
+    ]
+  },
+  {
+    "name": "Lemon Chilli Family Restro",
+    "address": "85, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+916399127878"
+    ]
+  },
+  {
+    "name": "National Juice House",
+    "address": "32, Dispensary Road, Tehsil Chowk, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+917409326635"
+    ]
+  },
+  {
+    "name": "Sla Bakery - Boulangerie & Cafe",
+    "address": "179 B, Rajpur Road, Near Sai Mandir, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919892311092"
+    ]
+  },
+  {
+    "name": "MJ Restaurant - MJ Residency",
+    "address": "Hotel MJ Residency, 54 Haridwar Road, Near CMI Hospital, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+911352629591",
+      "+911352629592"
+    ]
+  },
+  {
+    "name": "Yuri Restaurant",
+    "address": "Bangali Kothi Chowk, Mothorowala Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+918266881555",
+      "+918266881666"
+    ]
+  },
+  {
+    "name": "Bengali Sweet Shop - Since 1930",
+    "address": "1, Rajpur Road Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352653015"
+    ]
+  },
+  {
+    "name": "Amola's",
+    "address": "37, Pushpkunj, Mothrowala Road, Near Mahindra Showroom, Morowala, Dehradun",
+    "phoneNumbers": [
+      "+911352533588"
+    ]
+  },
+  {
+    "name": "Anandam Express",
+    "address": "11-E, Rajpur Road, Ghanta Ghar, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+918899121433"
+    ]
+  },
+  {
+    "name": "8 Momoz",
+    "address": "1B, Shivalik Puram, Shewala Kala, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917351225553"
+    ]
+  },
+  {
+    "name": "Nath's Chinese",
+    "address": "Radha Plaza, Main Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+917830712512"
+    ]
+  },
+  {
+    "name": "The Daisy Cafe And Bakery",
+    "address": "Shop 20/1, Canal Road, Kishanpur, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918077711866",
+      "+919870681596"
+    ]
+  },
+  {
+    "name": "Anandpuri Restaurant",
+    "address": "77/5, Dilaram Bazar, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919897780424",
+      "+919761003399"
+    ]
+  },
+  {
+    "name": "Cafe Lychee Tree",
+    "address": "G 24/5, Nehru Colony, Near IDBI Bank, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+917505204650"
+    ]
+  },
+  {
+    "name": "Burger Monk",
+    "address": "4 A, 13 Tower, Race Course Road, Opposite Rinko Medicos, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919810890160",
+      "+911244669177",
+      "+918266063080"
+    ]
+  },
+  {
+    "name": "Gourmet Culture - Hotel Madhuban",
+    "address": "Hotel Madhuban, 97, Rajpur Road, Dehradun, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+917533811405"
+    ]
+  },
+  {
+    "name": "Aaoji Khaoji",
+    "address": "1/2/3, Kutchery, Raja Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+917465065826",
+      "+919917008593"
+    ]
+  },
+  {
+    "name": "Nukkad Cafe",
+    "address": "A P Tower, Nigam Road, Selakui, Dehradun",
+    "phoneNumbers": [
+      "+918006660649"
+    ]
+  },
+  {
+    "name": "Kebab King",
+    "address": "87, Dilaram Bazar, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+916395835399"
+    ]
+  },
+  {
+    "name": "RJ Lucknowi Zaika",
+    "address": "Kehari Gaon, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+917080647477"
+    ]
+  },
+  {
+    "name": "Ambrosia",
+    "address": "21, Centre Point, Rajpur Road, Near Astley Hall, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352651177"
+    ]
+  },
+  {
+    "name": "Delhi Darbar",
+    "address": "Opposite ICICI Bank, Shimla Bypass Chowk, Saharanpur Road, Majra, Dehradun",
+    "phoneNumbers": [
+      "+918057415193"
+    ]
+  },
+  {
+    "name": "Daily Chicken Point",
+    "address": "Dehradun Nagar Nigam, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+919027264724",
+      "+919456565463"
+    ]
+  },
+  {
+    "name": "Lazeez Kathi Rolls",
+    "address": "89, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919927199900",
+      "+911352740786"
+    ]
+  },
+  {
+    "name": "All Baked",
+    "address": "64, Tilak Road, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+918607192646"
+    ]
+  },
+  {
+    "name": "Karan's Cafe",
+    "address": "Udhowala, Near BFIT College, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918587805877"
+    ]
+  },
+  {
+    "name": "Matta's Food Corner",
+    "address": "Near Mata Wala Bagh, Arhat Bazaar, Patel Nagar, Saharanpur Road, Laxman Chowk, Dehradun",
+    "phoneNumbers": [
+      "+918267020400"
+    ]
+  },
+  {
+    "name": "3Monkeys",
+    "address": "Sahastradhara Road, Opposit Gangotri Marble House, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+917417554976",
+      "+917417554977",
+      "+918909226895"
+    ]
+  },
+  {
+    "name": "Chaupal Restaurant",
+    "address": "121, Rajeshwar Nagar Phase 2, Govind Vihar, Sahastradhara Road, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+917906688628"
+    ]
+  },
+  {
+    "name": "Da Pepper Pizza",
+    "address": "Near Kali Mata Chowk, Doon Medical College Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+917982656540"
+    ]
+  },
+  {
+    "name": "Aerodine Multicuisine Restaurant",
+    "address": "365, 618, Ground Floor, Rajpur Road, Opposite WIC, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+917668428344",
+      "+918126624543"
+    ]
+  },
+  {
+    "name": "Spicy Orange",
+    "address": "33/30, Govind Nagar, Opposite Shem Rock School, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919760339739"
+    ]
+  },
+  {
+    "name": "Eggdee Express",
+    "address": "76 Dhamawala, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+918394969671"
+    ]
+  },
+  {
+    "name": "Gulati Juice Corner",
+    "address": "9/3, Near ICICI ATM, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919568667772"
+    ]
+  },
+  {
+    "name": "Cafe Valley Retreat",
+    "address": "1, Opposite Tapobhumi Ashram, Old Rajpur, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919760207000"
+    ]
+  },
+  {
+    "name": "Garden Cress - Ramada Dehradun",
+    "address": "Chakrata Road, Ramada Dehradun, Mahender Vihar, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917617477576",
+      "+917457003259"
+    ]
+  },
+  {
+    "name": "Burg N Roll Cafe",
+    "address": "19, 1, EC Road, Opposite Indian Oil Petrol Pump, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918865948550",
+      "+911354078891"
+    ]
+  },
+  {
+    "name": "Delight Bakers",
+    "address": "2, Hari Om Market, Haridwar Road, Near Prince Chowk, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+917895230611"
+    ]
+  },
+  {
+    "name": "Savor Hut",
+    "address": "3, G M S Road, Near Dena Bank, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+918923504005",
+      "+918923456040"
+    ]
+  },
+  {
+    "name": "Shi-Wu Corner",
+    "address": "1, Lane 2, Shiwalik View, Ring Road, Jogiwala, Near SBI ATM, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+918650197457"
+    ]
+  },
+  {
+    "name": "Doon Darbar",
+    "address": "35, Gandhi Road, Dehradun, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+911352650786",
+      "+917060342222"
+    ]
+  },
+  {
+    "name": "Tuhada Dhaba",
+    "address": "Niranjanpur, Saharanpur Road, Majra, Dehradun",
+    "phoneNumbers": [
+      "+918126676737"
+    ]
+  },
+  {
+    "name": "Helly And Chilly Cafe",
+    "address": "453/411, Main Road, Opposite Bata Showroom, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919897119442"
+    ]
+  },
+  {
+    "name": "Punjabi Foods",
+    "address": "Opposite Biba Girls Showroom, Dilaram Bazar, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+918218521413",
+      "+917900863333"
+    ]
+  },
+  {
+    "name": "Chicago BR",
+    "address": "Shop 4, Cement Road, Near D.A.V. P G College, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918449900990",
+      "+919719222266"
+    ]
+  },
+  {
+    "name": "Dope",
+    "address": "180/7/268, Near Sai Mandir, Rajpur Road, Kulhan Mansingh, Dehradun Nagar Nigam, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919811421109"
+    ]
+  },
+  {
+    "name": "Satwah Gourmet Dining",
+    "address": "Opposite Negi Kanta Gali, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919897991319"
+    ]
+  },
+  {
+    "name": "Hyatt Regency Resort and Spa",
+    "address": "Ground Floor, Hyatt Regency, Village Danio Ka Danda, Off Musoorie Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919045081234"
+    ]
+  },
+  {
+    "name": "Foresta",
+    "address": "117, Maula Dhakpatti Rajpur Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917500556555"
+    ]
+  },
+  {
+    "name": "Diablo",
+    "address": "The Stallion 205, 5Th Floor, Rajpur Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919258573099",
+      "+919258577099"
+    ]
+  },
+  {
+    "name": "T'Qila",
+    "address": "Khasra 8, Village Sinaula, Mussoorie Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919258288601"
+    ]
+  },
+  {
+    "name": "Cafe Turquoise Cottage",
+    "address": "4th Floor, NCR Plaza, New Cantt Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+918126467161",
+      "+918126467162"
+    ]
+  },
+  {
+    "name": "Culture Cafe Wine & Casual Dinning",
+    "address": "6 B, Astley Hall, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917505550690"
+    ]
+  },
+  {
+    "name": "Baskin Robbins - Ice Cream Desserts",
+    "address": "Unit A001, Ground Floor, Mussoorie Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+918501900000"
+    ]
+  },
+  {
+    "name": "Zayka Delhi 6 Family Restaurant",
+    "address": "Khata 1718, Azad Colony Chowk, Majra, Haridwar Bypass Road, Morowala, Dehradun",
+    "phoneNumbers": [
+      "+918744911911"
+    ]
+  },
+  {
+    "name": "Playboy Beer Garden",
+    "address": "141, 5th Floor, The Elanza, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917617733322"
+    ]
+  },
+  {
+    "name": "Sunset Home Kitchen",
+    "address": "Saina Inn, 3, Old Survey Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+911352745250"
+    ]
+  },
+  {
+    "name": "Cafe Diva",
+    "address": "Sahastradhara Chowk, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918779985552"
+    ]
+  },
+  {
+    "name": "Chilli'z Restro",
+    "address": "109/66, Ring Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+918445566226",
+      "+917060481726"
+    ]
+  },
+  {
+    "name": "Yellow Marigold House Cafe",
+    "address": "6, Cross Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919068717616"
+    ]
+  },
+  {
+    "name": "Pizza Hut",
+    "address": "Shop 1 & 2, Ground Floor, Shree Ji Tower, Majra Saharanpur Road, Majra, Dehradun",
+    "phoneNumbers": [
+      "+919582630349"
+    ]
+  },
+  {
+    "name": "Slake",
+    "address": "179/2/3, Kishanpur, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918979940737"
+    ]
+  },
+  {
+    "name": "Standard's Bakery",
+    "address": "75/4, Arya Tower, Patel Nagar, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+918979177749"
+    ]
+  },
+  {
+    "name": "Dilli 6",
+    "address": "14/12, Rajeev Gandhi Marg, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+917351081888"
+    ]
+  },
+  {
+    "name": "The Cosmopolitan",
+    "address": "6B, Astley Hall, Rajpur Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+911352653476",
+      "+919897658491",
+      "+917505550690"
+    ]
+  },
+  {
+    "name": "Samburna",
+    "address": "21, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919811142274"
+    ]
+  },
+  {
+    "name": "Kathi Bite",
+    "address": "SF 12, Food Court, Pacific Mall, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919579198909"
+    ]
+  },
+  {
+    "name": "Kumar Vegetarian",
+    "address": "15B, Rajpur Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352659266",
+      "+911352710786"
+    ]
+  },
+  {
+    "name": "Kathi Express",
+    "address": "18/19, Ground Floor, Vikas Cinemall, Indira Nagar, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+918755946222",
+      "+918791699723"
+    ]
+  },
+  {
+    "name": "Delhi Chicken Point",
+    "address": "Chakrota Road, Near Flyover, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+919411314786"
+    ]
+  },
+  {
+    "name": "Katman's Kitchen & Bar",
+    "address": "163A, 4th Floor, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918937017076"
+    ]
+  },
+  {
+    "name": "Annapurna Andhra Mess Speciality Restaurant",
+    "address": "Plot 404, Vasant Vihar, I T B P F Road, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+917030402080"
+    ]
+  },
+  {
+    "name": "Olivo Wine & Dine",
+    "address": "2, Engineers Enclave, Brij Towers, GMS Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+919760414424"
+    ]
+  },
+  {
+    "name": "Dhungaar",
+    "address": "3rd Floor, Sahastradhara Road, Dehradun Nagar Nigam, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918755955775"
+    ]
+  },
+  {
+    "name": "First Gear Cafe",
+    "address": "Khala Gaon, Mussoorie Road, Near Shiv Mandir, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917409112200"
+    ]
+  },
+  {
+    "name": "Burger Singh - Big Punjabi Burgers",
+    "address": "C1/114, Indira Nagar, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+918767121212"
+    ]
+  },
+  {
+    "name": "Y Cafe & Restaurant",
+    "address": "49, 15/7, Subhash Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919719978463"
+    ]
+  },
+  {
+    "name": "Chilli'z Restro Express",
+    "address": "130, Araghar, Ring Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+918445566226"
+    ]
+  },
+  {
+    "name": "Crust - Ramada Dehradun",
+    "address": "Ramada Dehradun, Chakrata Road, Mahender Vihar, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917457003259"
+    ]
+  },
+  {
+    "name": "Sunrise Bakers - Since 1956",
+    "address": "20, Ghosi Gali, Near Clock Tower, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+919897934138"
+    ]
+  },
+  {
+    "name": "THC - Truckers Halt Cafe",
+    "address": "152, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919891299704"
+    ]
+  },
+  {
+    "name": "Tashi's",
+    "address": "1, Kiduuwala Road, Near Indian Oil Pump, Raipur, Dehradun",
+    "phoneNumbers": [
+      "+918445997669"
+    ]
+  },
+  {
+    "name": "Chicken Inn",
+    "address": "85/1, Dilaram bazar, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919760213441",
+      "+919412413441"
+    ]
+  },
+  {
+    "name": "Kathi Junction",
+    "address": "Shop 2, Capital Heights, ITBP Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+917683047305"
+    ]
+  },
+  {
+    "name": "Bigway Cafe Restro",
+    "address": "12-A, Opposite RIMCPJ Gate, Garhi Cantt, Dehradun",
+    "phoneNumbers": [
+      "+911352751937"
+    ]
+  },
+  {
+    "name": "Brew Factory",
+    "address": "7th Floor, Pinnacle Plaza, Rajpur Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919568700016"
+    ]
+  },
+  {
+    "name": "0135 Pub & Kitchen",
+    "address": "74C, 3rd Floor, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919997998999",
+      "+919927270135"
+    ]
+  },
+  {
+    "name": "Best In Town",
+    "address": "788/799, Street 4, Kaulagarh Road, Rajinder Nagar, Krishna Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918744920987"
+    ]
+  },
+  {
+    "name": "The Solitare Restaurant and Bar",
+    "address": "The Solitaire, Haridwar Byepass Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+911352532225",
+      "+918650002063",
+      "+918650002068"
+    ]
+  },
+  {
+    "name": "Ahuja's Sweets & Dairy",
+    "address": "701, Haridwar Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919412052512"
+    ]
+  },
+  {
+    "name": "The Lucknowi - Taste Of Awadh",
+    "address": "Lane 3, Doon Vihar, Jakhan Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917409993939"
+    ]
+  },
+  {
+    "name": "Cafe Laata",
+    "address": "271/2, Top Floor, Chopra Complex, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+917409038443"
+    ]
+  },
+  {
+    "name": "Nazish Kathi Roll",
+    "address": "Prop 140/1 Rajpur Road Jakhan, Dehradun Nagar Nigam, Dehradun, Uttarakhand",
+    "phoneNumbers": [
+      "+917520372744"
+    ]
+  },
+  {
+    "name": "Hakka Restaurant",
+    "address": "Old Mussoorie Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919760352242"
+    ]
+  },
+  {
+    "name": "Chicken Point",
+    "address": "24, Chakrata Road, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918883336611"
+    ]
+  },
+  {
+    "name": "Roms Pizza",
+    "address": "25, Khasra 169/1-3, Mauza Bgral Gaon, Pargana Pachhwadoon, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919560547077"
+    ]
+  },
+  {
+    "name": "The Kitchen By MJ Grand Inn",
+    "address": "78, Rajpur Road, Adjoining Paypal Cinema, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+917351003959"
+    ]
+  },
+  {
+    "name": "CnD Bakers & Restaurant",
+    "address": "4, Clock Tower, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+918171444448",
+      "+919690232345"
+    ]
+  },
+  {
+    "name": "Le Amritam - Dine & Mime",
+    "address": "56, Patel Nagar, Saharanpur Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+917302797003"
+    ]
+  },
+  {
+    "name": "Let's Ketchup Cafe",
+    "address": "Shop 06, Capital Heights Apartments, ITBP Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+917017499767"
+    ]
+  },
+  {
+    "name": "Teddy's Cafe",
+    "address": "24, Ground Floor, Opposite Vikas Mall, Indra Nagar, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+918958888867"
+    ]
+  },
+  {
+    "name": "Hill Queen Restro Bar Cafe",
+    "address": "105, Araghar Chowk, EC Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+911352659145",
+      "+917900911911"
+    ]
+  },
+  {
+    "name": "Bristal Bar",
+    "address": "899/1, Kaulagarh Road, Near Kishan Nagar Chowk, Krishna Nagar, Dehradun",
+    "phoneNumbers": [
+      "+911352756723"
+    ]
+  },
+  {
+    "name": "Unplugged Bar & Tapas",
+    "address": "Ground Floor, Regenta L P Vilas, Nanda Ki Chowki, Chakrata Road, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+911357165005",
+      "+917251999744"
+    ]
+  },
+  {
+    "name": "Winni Cakes & More",
+    "address": "250/198, Karanpur Bazaar, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919800056789"
+    ]
+  },
+  {
+    "name": "Lets Smooch Cafe",
+    "address": "Shop 2, First Floor, Haridwar Road, Near Prince Chowk, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+918722010222",
+      "+917895230611"
+    ]
+  },
+  {
+    "name": "Toss Cafe Lounge",
+    "address": "21, Centre Point, Chukkuwala Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352651177",
+      "+919897385450"
+    ]
+  },
+  {
+    "name": "The Bhulla's Fast Food",
+    "address": "Suddhowala, Near Reliance Smart Point, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919410983233"
+    ]
+  },
+  {
+    "name": "Jaina Restaurant",
+    "address": "32, Chakrata Road, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+919897352817"
+    ]
+  },
+  {
+    "name": "Reykan's Bakers Bar Kitchen",
+    "address": "Shop G-23, Plot MP 1, Vikas Cine Mall, Indira Nagar Colony Road, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+918393980000"
+    ]
+  },
+  {
+    "name": "Raju Omlet",
+    "address": "Shop 4, Pacific Hills, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919997926633",
+      "+917467000087"
+    ]
+  },
+  {
+    "name": "Holsem Live Creamery & Pizzeria",
+    "address": "Svarna Mana Complex, Rajpur Road, Opposite Inder Bawa Marg, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919899937799"
+    ]
+  },
+  {
+    "name": "Sardar G Malai Chaap Junction",
+    "address": "Near PNB Bank, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+916395784116"
+    ]
+  },
+  {
+    "name": "Dee Lounge",
+    "address": "108-C, Haridwar Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+918077828955",
+      "+918273079585"
+    ]
+  },
+  {
+    "name": "The Bambooz Restaurant",
+    "address": "Near Bank Of India, Simla Bypass, GMS Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+916399088088"
+    ]
+  },
+  {
+    "name": "Tortuga Cafe And Lounge",
+    "address": "Anand Arcade Complex, Property 226, Canal Road, Kishanpur, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919027564614"
+    ]
+  },
+  {
+    "name": "Veere Da Dhaba",
+    "address": "Wing 3, Near Tyagi Market, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919319375442"
+    ]
+  },
+  {
+    "name": "Crunch House Pizzeria",
+    "address": "19/1 E, C Road, Opposite Indian Oil Petrol Pump, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918865948550",
+      "+911354078891"
+    ]
+  },
+  {
+    "name": "The Cafe Kitchen",
+    "address": "55/7, Krishna Nagar, Dehradun",
+    "phoneNumbers": [
+      "+917017971318"
+    ]
+  },
+  {
+    "name": "RollsKing",
+    "address": "Chandrabani Chowk, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918171200208"
+    ]
+  },
+  {
+    "name": "Gulab Sweets & Restaurants",
+    "address": "Rispana Bridge, Opposite Minakshi Garden, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919368722155",
+      "+919990901261"
+    ]
+  },
+  {
+    "name": "Shvet Dhara Milk & Sweets Bar",
+    "address": "Doon Hill Colony, Ladpur, Ring Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919411171046"
+    ]
+  },
+  {
+    "name": "Wok This Way",
+    "address": "Aam Bagh, Nimbuwala Road, Garhi Cantt, Dehradun",
+    "phoneNumbers": [
+      "+919958856638"
+    ]
+  },
+  {
+    "name": "New Rita Kulfi",
+    "address": "D52, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919897027414"
+    ]
+  },
+  {
+    "name": "Mago Restaurant",
+    "address": "6, Anand Vihar, Kaulagarh Road, Opposite OBC Bank, Krishna Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919258740593"
+    ]
+  },
+  {
+    "name": "The Heritage Restro",
+    "address": "Suddhowala Chowk, Chakrata Road, Suddhowala, Dehradun",
+    "phoneNumbers": [
+      "+918077024848"
+    ]
+  },
+  {
+    "name": "Neeraj Sweet Shop",
+    "address": "59 Kanwali Road, Jhanda Bazar, Saharanpur Chowk, Jhanda Mohalla, Khurbura, Dehradun",
+    "phoneNumbers": [
+      "+919758102403"
+    ]
+  },
+  {
+    "name": "Tasty Bite Pizza",
+    "address": "63/1, Dastana Factory Chowk, Neshvilla Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+917830731980"
+    ]
+  },
+  {
+    "name": "Frost - Hotel Saffron Leaf",
+    "address": "Hotel Saffron Leaf, GMS Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+911352521400"
+    ]
+  },
+  {
+    "name": "MJ Castle Restro",
+    "address": "I/14, Nehru Colony, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+917248206784"
+    ]
+  },
+  {
+    "name": "Hunger Cure",
+    "address": "33/30, Govind Nagar, Opposite Shem Rock School, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+918938855558"
+    ]
+  },
+  {
+    "name": "Old Paratha Point",
+    "address": "Chakrata Road, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919634182020",
+      "+916397299371"
+    ]
+  },
+  {
+    "name": "Hotel Deepshikha",
+    "address": "57/1, Rajpur Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+917818080595"
+    ]
+  },
+  {
+    "name": "University Of Pizza",
+    "address": "198, Nagar Nigam, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+917982656540"
+    ]
+  },
+  {
+    "name": "Special Stuff Patty Cafe",
+    "address": "Near BFIT College, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919917001971"
+    ]
+  },
+  {
+    "name": "Kulhad Cafe & Bakery",
+    "address": "7, Old Musoorie Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917060223332"
+    ]
+  },
+  {
+    "name": "D N D Brothers",
+    "address": "17, Near PNB, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919634749442"
+    ]
+  },
+  {
+    "name": "Prakash And Brothers Dhaba",
+    "address": "42, Niranjanpur, New Sabzi Mandi, Opposite Green Park, Majra, Dehradun",
+    "phoneNumbers": [
+      "+919412997644"
+    ]
+  },
+  {
+    "name": "Sammaan Restaurant",
+    "address": "Shop 5, Darshani Gate, Near Railway Station, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919412054502",
+      "+918077882570"
+    ]
+  },
+  {
+    "name": "Pizza House",
+    "address": "Miyawala Tiraya, Jogiwala, Dehradun",
+    "phoneNumbers": [
+      "+919389789318"
+    ]
+  },
+  {
+    "name": "Rising Dough",
+    "address": "67/10, Rajpur Road, Opposite Meedo Plaza, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+911352744000",
+      "+911352745000"
+    ]
+  },
+  {
+    "name": "Pineapple Restaurant",
+    "address": "Sahastradhara Road, Dehradun Nagar Nigam, Nalapani Chowk, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+911352788862",
+      "+917452943855"
+    ]
+  },
+  {
+    "name": "Hotel Amar Heights",
+    "address": "9/4/2, Chandra Nagar, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+918126514075"
+    ]
+  },
+  {
+    "name": "Rustico Cafe",
+    "address": "Uk O7, Opposite Petrol Pump, Near Pacific Mall, Doon Vihar, Lane 3, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919027332903"
+    ]
+  },
+  {
+    "name": "Kia Kitchen",
+    "address": "399, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919873242322"
+    ]
+  },
+  {
+    "name": "White Biergarten",
+    "address": "Street 2 A, Rajender Nagar, Kaulagarh Road, Krishna Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919897911243",
+      "+919897770682"
+    ]
+  },
+  {
+    "name": "Aisa Kaisa Dosa",
+    "address": "Rajpur Road, Near Sai Baba Temple, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919873089003"
+    ]
+  },
+  {
+    "name": "Sangam Food Point",
+    "address": "193, Society Area, Clementtown, Bharu Wala, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+916396844008",
+      "+916395048171"
+    ]
+  },
+  {
+    "name": "Chai Coffee And Chill",
+    "address": "449/1, Chandarlok Colony, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919520948001"
+    ]
+  },
+  {
+    "name": "Angel's Bite",
+    "address": "Mohabewala, Bell Road, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918630474079"
+    ]
+  },
+  {
+    "name": "Chaap’s Adda",
+    "address": "Main Chowk, Opposite Afreen Salon, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+919389406461"
+    ]
+  },
+  {
+    "name": "Jaina Vegetarian",
+    "address": "32, 1st Floor, Chakrata Road, Near Prabhat Cinema, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+919760267881",
+      "+917505827095"
+    ]
+  },
+  {
+    "name": "KC Amritsari Kulcha Land And Crystal Hungry Point",
+    "address": "Shaheed Dwar, Lovely Market, Panditwari, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+917617676763"
+    ]
+  },
+  {
+    "name": "Hungry Cafe",
+    "address": "9, Cement Road, Near DBS PG College, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918171680525"
+    ]
+  },
+  {
+    "name": "Omjee Kachori Wale",
+    "address": "Ghosi Gali, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+919319072095"
+    ]
+  },
+  {
+    "name": "Doon Vegetarian",
+    "address": "I- 223, Nehru Colony, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+917088496312",
+      "+918909900484"
+    ]
+  },
+  {
+    "name": "Cafe Junk",
+    "address": "Shop 1, Plot 2, Char Khamba Chowk, Bell Road, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919582395979"
+    ]
+  },
+  {
+    "name": "Apeez Restaurant",
+    "address": "175, Patel Nagar, Saharanpur Road, Next To BOB, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+919634274383"
+    ]
+  },
+  {
+    "name": "Om Sainath South Indian Corner",
+    "address": "128, Pipal Wala Maidan, Patel Nagar, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+918077720561"
+    ]
+  },
+  {
+    "name": "Kebab & Biryani - Since 1995",
+    "address": "Dhoran Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+919719111191"
+    ]
+  },
+  {
+    "name": "The Colony Cafe",
+    "address": "780, Third Floor, Green Park, Niranjanpur, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+919717937669"
+    ]
+  },
+  {
+    "name": "Katiyar Bake Shop",
+    "address": "Bengali Kothi, Rajeev Nagar, Tehri Nagar, Ajabpur Khurd, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919897223464"
+    ]
+  },
+  {
+    "name": "Sip Of Doon",
+    "address": "CR Towers, Char Khamba Chowk, Clement Town, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919897302633",
+      "+916395085540"
+    ]
+  },
+  {
+    "name": "The Chai Theka",
+    "address": "327/1, Mussoorie Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919997993434"
+    ]
+  },
+  {
+    "name": "Brij Sweets",
+    "address": "Shop Number 446, Garhi Cantt, Dehradun",
+    "phoneNumbers": [
+      "+919410786756"
+    ]
+  },
+  {
+    "name": "Spice Box Cafe",
+    "address": "Near BFIT Group Of college, manduwala road suddhowala, Suddhowala, Dehradun",
+    "phoneNumbers": [
+      "+918447939930"
+    ]
+  },
+  {
+    "name": "Indian Hut",
+    "address": "Shop 2, Gurudwara Chowk, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919012346008"
+    ]
+  },
+  {
+    "name": "New Sabri Kathi Roll & Chowmein Center",
+    "address": "Chandrabani Chowk, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918755547208"
+    ]
+  },
+  {
+    "name": "Daddy's Kitchen",
+    "address": "1/13, Patel Nagar, Saharanpur Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+919012400077"
+    ]
+  },
+  {
+    "name": "3E - Eat Drink Work",
+    "address": "164, Bagriyal Gaon, DY Road, Near DIT & IMS College, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919643674686"
+    ]
+  },
+  {
+    "name": "Jaideep Restaurant",
+    "address": "New Cantt Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919412369130"
+    ]
+  },
+  {
+    "name": "Shawarma Darbar",
+    "address": "10, Darshan Lal Chowk, Gandhi Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+917505328463"
+    ]
+  },
+  {
+    "name": "Alcove",
+    "address": "Hotel Meedo's Grand, 28, Rajpur Road, Near Hathibarkala Sabwala, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+911352747171",
+      "+911352747172"
+    ]
+  },
+  {
+    "name": "Urban House",
+    "address": "Shastri Nagar, Haridwar Road, Opposite Shurveer Sajwan Dwar, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+917037151596",
+      "+918865886850"
+    ]
+  },
+  {
+    "name": "Hotel Siddharth Paradise Restaurant",
+    "address": "2, Haridwar Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+911352622513",
+      "+911352724948"
+    ]
+  },
+  {
+    "name": "An Italian Connection",
+    "address": "266/10/475, Rajpur Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+917895520306"
+    ]
+  },
+  {
+    "name": "Royal Multi Cuisine Restaurant & Bar",
+    "address": "7 A, Astley Hall, Rajpur Road, Near PNB, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+911352651553",
+      "+917895228824"
+    ]
+  },
+  {
+    "name": "Brewbakes And Chaat Ka Chaska",
+    "address": "Old 365/618, 268/618, Rajpur Road, Opposite Jaypee, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+919557151415"
+    ]
+  },
+  {
+    "name": "Walnut Inn",
+    "address": "Old Mussoorie Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919997833330",
+      "+919997655550"
+    ]
+  },
+  {
+    "name": "Smoky Dots Lounge And Restaurants",
+    "address": "135, Rajpur Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919582523662"
+    ]
+  },
+  {
+    "name": "Head Over Heels - Hotel Madhuban",
+    "address": "Hotel Madhuban, 97, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+911352749990"
+    ]
+  },
+  {
+    "name": "ATR Food Court",
+    "address": "Opposite Mahindra Showroom, Haridwar Bypass Road, Ajabpur Khurd, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+918439675046"
+    ]
+  },
+  {
+    "name": "Foodies Restaurant",
+    "address": "Pathribagh Chowk, Kargi Road, Near Blessing Farm, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918968106946"
+    ]
+  },
+  {
+    "name": "I Rescafe",
+    "address": "Village Jhajra, Chakrata Road, Opposite Kids World School, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+916395552323"
+    ]
+  },
+  {
+    "name": "Premio Basato Cafe & Confectionary",
+    "address": "Shop 8, ATS Arcade, Govind Vihar, Sahastradhara Road, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+919634788649"
+    ]
+  },
+  {
+    "name": "Annapurna Foods",
+    "address": "Shop 115, Old Sabji Mandi, Moti Bazar, Ajit Prasad Nagar, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+918439864494"
+    ]
+  },
+  {
+    "name": "Namastey People",
+    "address": "179, Rajpur Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919760076644"
+    ]
+  },
+  {
+    "name": "Chill Out Cafe",
+    "address": "27, Mansingh Wala, Opposite DBS Inter College, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919634143838"
+    ]
+  },
+  {
+    "name": "Food Junction",
+    "address": "324/1, Village Bagral, Mussoorie Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+917055020907",
+      "+919997657801"
+    ]
+  },
+  {
+    "name": "Sweetcorn Cafe And Restaurant",
+    "address": "47, Kaulaghar Road, Street 9, Near State Bank Of India, Rajender Nagar, Garhi Cantt, Dehradun",
+    "phoneNumbers": [
+      "+918006171156"
+    ]
+  },
+  {
+    "name": "The Old Republic",
+    "address": "Kandholi, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+918439721273"
+    ]
+  },
+  {
+    "name": "Big Bro's Cafe",
+    "address": "129, Saharanpur Road, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918650780006"
+    ]
+  },
+  {
+    "name": "Little China Square",
+    "address": "Opposite BSNL Telephone Exchange, Saharanpur Road, Near Laal Paul Chowk, Patel Nagar, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+918755624054"
+    ]
+  },
+  {
+    "name": "Edison's Experiments With Milk",
+    "address": "282/1, Kaulagharh Road, Rajendra Nagar, Garhi Cantt, Dehradun",
+    "phoneNumbers": [
+      "+918938040557"
+    ]
+  },
+  {
+    "name": "9 Downtown",
+    "address": "Shop 8, Pacific Hills, Mussorie Divergent, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+918650777788",
+      "+919719432432"
+    ]
+  },
+  {
+    "name": "Wild Bites",
+    "address": "Shop 13, Anmol Market, Indira Nagar, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+918979522782"
+    ]
+  },
+  {
+    "name": "Dehra Kettle",
+    "address": "Paradise Guest House, Mokhampur, Near, Jogiwala, Dehradun",
+    "phoneNumbers": [
+      "+917830841278"
+    ]
+  },
+  {
+    "name": "Sophia Foods",
+    "address": "76/33, Saket Colony, Lane 2, Rajpur Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918192955391"
+    ]
+  },
+  {
+    "name": "The Burger Company",
+    "address": "Shop 52, Ground Floor, Chakrata Road, Opposite Doon School, Khurbura, Dehradun",
+    "phoneNumbers": [
+      "+919760080111",
+      "+919711500668"
+    ]
+  },
+  {
+    "name": "K K Kebab Corner",
+    "address": "119, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+916395247006",
+      "+917895842024"
+    ]
+  },
+  {
+    "name": "Tandoor Singh Restaurant",
+    "address": "109/66, Ring Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919178494556"
+    ]
+  },
+  {
+    "name": "Whack Kitchen",
+    "address": "Plot 258, Opposite Silvercity Mall, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919930215115"
+    ]
+  },
+  {
+    "name": "Kathi Nation",
+    "address": "F2-222/113, Near AK Institute Nursing Patel Nagar, Saharanpur Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+919811152692"
+    ]
+  },
+  {
+    "name": "Mountain View Cafe & Restaurant",
+    "address": "Old Mussoorie Road, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919012908686"
+    ]
+  },
+  {
+    "name": "Delhi Tandoor",
+    "address": "339/1, Mussoori Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+919548810166"
+    ]
+  },
+  {
+    "name": "Dehra Town Cafe & Restro",
+    "address": "3, Canal Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919557834421"
+    ]
+  },
+  {
+    "name": "Food Capital",
+    "address": "Karanpur Main Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+917406236001"
+    ]
+  },
+  {
+    "name": "Madogiri's Pizzeria",
+    "address": "Samta Enclave, Dilaraam Chowk, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+918979131517"
+    ]
+  },
+  {
+    "name": "Monika Foods",
+    "address": "Panditwari, Dehradun Nagar Nigam, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919764584044"
+    ]
+  },
+  {
+    "name": "Kitchen's Heart",
+    "address": "Subhash Nagar, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918171999200"
+    ]
+  },
+  {
+    "name": "Lazezz Kathi Roll From Kolkata's",
+    "address": "11/11 Ballupur Road, Opposite Yes Bank, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917895387888"
+    ]
+  },
+  {
+    "name": "Theka Desi Chai",
+    "address": "Graphic Era University Road 1, Near Pimpleshwar Mandir, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918938881034"
+    ]
+  },
+  {
+    "name": "Waffles World",
+    "address": "56/1, Canal Road, Dehradun",
+    "phoneNumbers": [
+      "+917300881782",
+      "+919997703787"
+    ]
+  },
+  {
+    "name": "Indishh - Do Tell",
+    "address": "Krishnapuram, Mokhampur, Jogiwala, Dehradun",
+    "phoneNumbers": [
+      "+919759002600"
+    ]
+  },
+  {
+    "name": "Buns & Wraps",
+    "address": "Doon University Road, Jogiwala, Dehradun",
+    "phoneNumbers": [
+      "+916398723336"
+    ]
+  },
+  {
+    "name": "Punjabi Restaurant",
+    "address": "Tarli Kandoli, Rajeev Nagar, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918266815820"
+    ]
+  },
+  {
+    "name": "Hotel Gaurab Restaurant",
+    "address": "Hotel Gaurab, Gandhi Road, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+911352654215",
+      "+911352657266",
+      "+911352657267"
+    ]
+  },
+  {
+    "name": "Autentico",
+    "address": "179B, Near Mussoorie Diversion, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918076295925"
+    ]
+  },
+  {
+    "name": "The Giggles Club",
+    "address": "HR Tower II, Chakrata Road, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+919897341638"
+    ]
+  },
+  {
+    "name": "Blue Whale",
+    "address": "City Junction Mall, Clement Town, Haridwar Bypass Road, Morowala, Dehradun",
+    "phoneNumbers": [
+      "+919997778499"
+    ]
+  },
+  {
+    "name": "Flavours Bar - Hotel Doon Castle",
+    "address": "Patel Nagar, Saharanpur Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+911352726166"
+    ]
+  },
+  {
+    "name": "La Amizza's",
+    "address": "Shop 2, 1st Floor, Chandrabani Road, Majra, Dehradun",
+    "phoneNumbers": [
+      "+916395767291"
+    ]
+  },
+  {
+    "name": "Kunba Fine Dine & Chai Cafe",
+    "address": "1st Floor, Sheiba Tower, Rajpur Road, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919999134143"
+    ]
+  },
+  {
+    "name": "Nawaabi Kababi",
+    "address": "Khasra 327, Min Mauza, Bagral Gaon, Main Mussoorie Road, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+917906622941"
+    ]
+  },
+  {
+    "name": "Montu's Kitchen",
+    "address": "429/1 Niranjanpur, Majra, Dehradun",
+    "phoneNumbers": [
+      "+919897123156",
+      "+919897510906"
+    ]
+  },
+  {
+    "name": "Karishma's Chinese Since 1992",
+    "address": "Block-A, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919837684389"
+    ]
+  },
+  {
+    "name": "Punjab Connection",
+    "address": "Sahastradhara Road, Near Sahastradhara IT Park Chowk, Chironwali, Dehradun",
+    "phoneNumbers": [
+      "+918384880062"
+    ]
+  },
+  {
+    "name": "Nagpal's Chole Bhature",
+    "address": "70/1, Patel Nagar, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+917060550221"
+    ]
+  },
+  {
+    "name": "Cafe Chennai",
+    "address": "Pacific Mall, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918077105391"
+    ]
+  },
+  {
+    "name": "Yokan - Hyatt Centric",
+    "address": "152/3-4, Rajpur Road, Jakhan, Dehradun",
+    "phoneNumbers": [
+      "+918171999264"
+    ]
+  },
+  {
+    "name": "UR's Bawarchi",
+    "address": "Ground Floor, Rana Tower, Opposite Joshi Hospital, Selakui, Dehradun",
+    "phoneNumbers": [
+      "+919149225435"
+    ]
+  },
+  {
+    "name": "Baba's",
+    "address": "Old 226, Shop 1, Upper Ground Floor, Near GRD School, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+917300901253"
+    ]
+  },
+  {
+    "name": "Gulab Sweets & Restaurant",
+    "address": "R.D. Tower, Opposite Dronpuri GMS Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+917982414741"
+    ]
+  },
+  {
+    "name": "The Art Cafe",
+    "address": "Chakrata Road, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919792794449"
+    ]
+  },
+  {
+    "name": "The Queen's Cafe & Restaurant",
+    "address": "Ajabpurkalan, Doon University Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919639200777"
+    ]
+  },
+  {
+    "name": "Udupi Cafe Bangalore Idli",
+    "address": "3, East Canal Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919053996531"
+    ]
+  },
+  {
+    "name": "Drunken Monkey",
+    "address": "03, Nehru Enclave, GMS Road, Near Wadia Institute of Himalayan Geology, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+919548969721"
+    ]
+  },
+  {
+    "name": "Kumar Sweets and Restaurant",
+    "address": "Chandrabani Chowk, Opposite Harley Davidson, Saharanpur Road, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918630160898"
+    ]
+  },
+  {
+    "name": "Hotel Gems Inn",
+    "address": "Plot 277, Nanda Chowki, Pondha Road, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919999460505"
+    ]
+  },
+  {
+    "name": "Blooms Cafe",
+    "address": "Property 195, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+918826005654"
+    ]
+  },
+  {
+    "name": "Bobby's Kitchen",
+    "address": "18/21, Patel Nagar, Saharanpur Road, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+918393838300"
+    ]
+  },
+  {
+    "name": "Biryani Man",
+    "address": "166, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+917906357366"
+    ]
+  },
+  {
+    "name": "New Tuhada Dhaba",
+    "address": "13-B, Rajpur Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+918755416502"
+    ]
+  },
+  {
+    "name": "Uncle Johns Pizza",
+    "address": "Ground Floor, Opposite Electricity House, Raipur, Dehradun",
+    "phoneNumbers": [
+      "+919627575757"
+    ]
+  },
+  {
+    "name": "Brigadier's Restro Bar By Vishranti",
+    "address": "Village Lower Kandhauli, Pachwadun, Bidholi, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+917457001204",
+      "+917457001205",
+      "+917457001206"
+    ]
+  },
+  {
+    "name": "Just Cafe",
+    "address": "32, New Market, Near Clock Tower, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+919045066668"
+    ]
+  },
+  {
+    "name": "Hyderabadi's Biryani House",
+    "address": "Vikas Nagar, Near Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919676788758"
+    ]
+  },
+  {
+    "name": "Bartwal Sweets & Restaurant",
+    "address": "Vikas Nagar, Main Road, Selakui, Dehradun",
+    "phoneNumbers": [
+      "+911352980000"
+    ]
+  },
+  {
+    "name": "Mughal Darbar",
+    "address": "Sewla Kalan, Shewala Kala, Near Gori Furniture, Majra, Dehradun",
+    "phoneNumbers": [
+      "+917533857373"
+    ]
+  },
+  {
+    "name": "Annapurna Andhra Mess",
+    "address": "Keshav Enclave, Sewlakhurd, Chandrabani Road, Behind Uttranchal PG College, Majra, Dehradun",
+    "phoneNumbers": [
+      "+919809808787",
+      "+919809807878"
+    ]
+  },
+  {
+    "name": "Clever Fox Cafe - Lemon Tree Hotel",
+    "address": "113, Red Fox Hotel, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+916397501002"
+    ]
+  },
+  {
+    "name": "Nukkad Restaurant",
+    "address": "57, Gandhi Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+917895346979"
+    ]
+  },
+  {
+    "name": "Startup Cafe",
+    "address": "Saraswati Vihar Chowk, Ajabpur, Khurd Mata Mandir Road, Near Usha Tower Kedarpuram, Morowala, Dehradun",
+    "phoneNumbers": [
+      "+919634971680"
+    ]
+  },
+  {
+    "name": "Gagar Restaurant",
+    "address": "Main Kargi Chowk, Haridwar By Pass Road, Morowala, Dehradun",
+    "phoneNumbers": [
+      "+919997531731"
+    ]
+  },
+  {
+    "name": "Kwik Bite Centre",
+    "address": "2/4, Clock Tower, Gandhi Road, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+918077230535"
+    ]
+  },
+  {
+    "name": "Standard Ice Cream",
+    "address": "4/1, General Wing, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918881301111"
+    ]
+  },
+  {
+    "name": "South Indian Restaurant",
+    "address": "Chandrabani Road, Near Ral Market, Sewla Khurd, Majra, Dehradun",
+    "phoneNumbers": [
+      "+917659964707"
+    ]
+  },
+  {
+    "name": "Lemon Chilli Pure Veg",
+    "address": "2/2, Prince Chowk, Haridwar Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+917037787878"
+    ]
+  },
+  {
+    "name": "Pizza Hub",
+    "address": "123, Sharad Tower, Raipur Road, Ranjhawala, Raipur, Dehradun",
+    "phoneNumbers": [
+      "+919760271881"
+    ]
+  },
+  {
+    "name": "The Pizza Maestro",
+    "address": "Khasra 361, Johri Gaon, Sinola, Malsi, Dehradun",
+    "phoneNumbers": [
+      "+918630691726"
+    ]
+  },
+  {
+    "name": "The Pavilion",
+    "address": "Hotel President, 6, Astley Hall, Rajpur Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+911352657386"
+    ]
+  },
+  {
+    "name": "Karishma Foods",
+    "address": "Block A, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919837177758"
+    ]
+  },
+  {
+    "name": "Ali's Non Vegetarian Restaurant",
+    "address": "1 EC Road, Irigation Colony, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+919897869038"
+    ]
+  },
+  {
+    "name": "Roll Wala",
+    "address": "68, Karanpur Dav College Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918979536575"
+    ]
+  },
+  {
+    "name": "TKC Restaurant",
+    "address": "Wing 3, Opposite MDDA Park, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919760882420"
+    ]
+  },
+  {
+    "name": "La Italino Pizza",
+    "address": "I-2, Nehru Colony, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+916396707073"
+    ]
+  },
+  {
+    "name": "The Punjabi Essence Restaurant",
+    "address": "27 B, Near Premier Plaza, Rajpur Road, Chukkuwala, Dehradun",
+    "phoneNumbers": [
+      "+911352713380"
+    ]
+  },
+  {
+    "name": "Kingdom Of Momos",
+    "address": "Post Office Road, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+917983202488"
+    ]
+  },
+  {
+    "name": "Yellow Dragon",
+    "address": "Ground Floor, 6 Cross Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919084660243"
+    ]
+  },
+  {
+    "name": "Slice Of Pizza",
+    "address": "Near Naya Gaon Primary School, Ajabpur Khurd, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+917355104173"
+    ]
+  },
+  {
+    "name": "P For Pizza",
+    "address": "Karanpur Road, Near Laxmi Narayan Mandir, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918218237995"
+    ]
+  },
+  {
+    "name": "Nagpal Foods",
+    "address": "Dharampur Chowk, Haridwar Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919536820101"
+    ]
+  },
+  {
+    "name": "UK Central",
+    "address": "3rd Floor, Divine Tower, Near Pacific Mall, Rajpur, Dehradun",
+    "phoneNumbers": [
+      "+919105003131",
+      "+919105002929"
+    ]
+  },
+  {
+    "name": "The Waffle Shakes & Cafe",
+    "address": "Chakki 4, Raipur Chowk, Raipur, Dehradun",
+    "phoneNumbers": [
+      "+919873422704"
+    ]
+  },
+  {
+    "name": "Stranger Cafe",
+    "address": "Ashok Spa & Resorts, Ashok Marg, C-19, ISBT Turner Roa, Morowala, Dehradun",
+    "phoneNumbers": [
+      "+919068888310"
+    ]
+  },
+  {
+    "name": "Pooja Chaat And Fast Food Corner",
+    "address": "Clock Tower, Famous Chaat Wali Gali, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+918755060171",
+      "+919927256745"
+    ]
+  },
+  {
+    "name": "AJ Fast Food And Restaurant",
+    "address": "Upper Natthanpur, Lane 11, Ring Road, Near 6 Puliya, Jogiwala, Dehradun",
+    "phoneNumbers": [
+      "+919870755924"
+    ]
+  },
+  {
+    "name": "Doon Food Corner",
+    "address": "57/4, Nalapani Road, Near DBS College, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918909955425"
+    ]
+  },
+  {
+    "name": "Crystal Corner Fast Food & Restaurant",
+    "address": "Wing 7, Barrack1/4, Near Namdhari Gurdwara, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+917017948856",
+      "+919897433717"
+    ]
+  },
+  {
+    "name": "Kukrety Baker's",
+    "address": "Wildlife Institute Road, Majra, Dehradun",
+    "phoneNumbers": [
+      "+917906444647"
+    ]
+  },
+  {
+    "name": "Friends Sandwich Corner",
+    "address": "Wing 6, Tyagi Market, Prem Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919888943813"
+    ]
+  },
+  {
+    "name": "Farrago Air Lounge",
+    "address": "3rd Floor, One Mohini Tower, Main EC Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919059949914"
+    ]
+  },
+  {
+    "name": "Thee Heart",
+    "address": "16 B, Subhash Road, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+911353254196",
+      "+911352710263"
+    ]
+  },
+  {
+    "name": "Bond Lee Cafe",
+    "address": "22/7, Saharanpur Road, Near Uttrakhand Gramin Bank, Subhash Nagar, Dehradun",
+    "phoneNumbers": [
+      "+918192830597"
+    ]
+  },
+  {
+    "name": "Clay - A Story of Tandoor",
+    "address": "B23, Haridwar-Dehradun Road, Old Nehru Colony, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+918433281367"
+    ]
+  },
+  {
+    "name": "Ahteshaamulahk Chicken Center",
+    "address": "Gandhi Road, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+918630093478"
+    ]
+  },
+  {
+    "name": "Oberoi's Restaurant",
+    "address": "Tyagi Road, Race Course, Dehradun",
+    "phoneNumbers": [
+      "+919760420261"
+    ]
+  },
+  {
+    "name": "Cafe ZOCA",
+    "address": "Ajabpur Khurd, Near Decathlon, Haridwar, Bypass Road, Jogiwala, Dehradun",
+    "phoneNumbers": [
+      "+918439675046"
+    ]
+  },
+  {
+    "name": "Cafe Doonga Central",
+    "address": "37, Raibahadur Agarsen Marg, Karanpur, Dehradun",
+    "phoneNumbers": [
+      "+918057660390"
+    ]
+  },
+  {
+    "name": "U Cafe",
+    "address": "96, Krishna Nagar, Dehradun",
+    "phoneNumbers": [
+      "+919997699996"
+    ]
+  },
+  {
+    "name": "Fros Bakers",
+    "address": "Gullar Ghati Road, Jogiwala, Dehradun",
+    "phoneNumbers": [
+      "+918006111432"
+    ]
+  },
+  {
+    "name": "Hungry Cafe",
+    "address": "9, Cement Road, Near DBS College, Karanpur, Dehradun.",
+    "phoneNumbers": [
+      "+919759387870"
+    ]
+  },
+  {
+    "name": "Standard Bakers & Fast Food",
+    "address": "Hathibarkala Road, Near NCR Plaza, Hathibarkala Salwala, Dehradun",
+    "phoneNumbers": [
+      "+919760022250"
+    ]
+  },
+  {
+    "name": "Singh Fast Food",
+    "address": "Shop 10, Nehrupuram, Mdda Colony, Kanwli, Balliwala, Dehradun",
+    "phoneNumbers": [
+      "+917060474557"
+    ]
+  },
+  {
+    "name": "Prabhat Restaurant",
+    "address": "Kolhupani, Nanda Ki Chowki, Shahpur Santore, Dehradun",
+    "phoneNumbers": [
+      "+919045451554"
+    ]
+  },
+  {
+    "name": "UK Roll Express",
+    "address": "Opposite Karanpur Masjid, Karanpur, Dehradun.",
+    "phoneNumbers": [
+      "+918077707187"
+    ]
+  },
+  {
+    "name": "Veggie Heggie",
+    "address": "68, Chakarata Road, Bindaal Tirahya, Paltan Bazaar, Dehradun",
+    "phoneNumbers": [
+      "+919837301082"
+    ]
+  },
+  {
+    "name": "The Hunger Point",
+    "address": "Shanti Thapliyal Niwas, PO Natthuwala Wala, Opposite Subash Chandra Bose Academy, Raipur, Dehradun",
+    "phoneNumbers": [
+      "+919654010099",
+      "+918285685781"
+    ]
+  },
+  {
+    "name": "Meat Mart",
+    "address": "105/3, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+919837090863"
+    ]
+  },
+  {
+    "name": "Innovation",
+    "address": "City Food Junction Mall, Morowala, Dehradun",
+    "phoneNumbers": [
+      "+919897852370"
+    ]
+  },
+  {
+    "name": "Sagar Chinese Restaurant",
+    "address": "Patel Nagar, Near Kali Mandir, Dehrakhas Dehradun Nagar Nigam, Kaonli, Dehradun",
+    "phoneNumbers": [
+      "+918630918727"
+    ]
+  },
+  {
+    "name": "Best In Burgers",
+    "address": "6/2, New Vasant Vihar Enclave, Dehradun Nagar Nigam, Ballupur, Dehradun",
+    "phoneNumbers": [
+      "+917534003534"
+    ]
+  },
+  {
+    "name": "Veera Da Punjabi Dhaba",
+    "address": "Shastri Nagar, Haridwar Road, Dharampur, Dehradun",
+    "phoneNumbers": [
+      "+919897181412"
+    ]
+  },
+  {
+    "name": "Shalimar Restaurant And Sweets",
+    "address": "Shimla Bypass Chowk Majra, Dehradun",
+    "phoneNumbers": [
+      "+917618210025"
+    ]
+  }
+]
